@@ -1,4 +1,5 @@
-### Hi there 👋
+![Coco GitHub Stats](https://github-readme-stats.vercel.app/api?username=linmasaki&show_icons=true&locale=en&theme=yeblu)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=linmasaki&hide=html&theme=yeblu)
 
 <!--
 **linmasaki/linmasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
