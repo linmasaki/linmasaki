@@ -1,5 +1,5 @@
 ![Coco GitHub Stats](https://github-readme-stats.zohan.tech/api?username=linmasaki&show_icons=true&locale=en&theme=yeblu)
-![](https://github-readme-stats.zohan.tech/api/top-langs/?username=linmasaki&hide=html&theme=yeblu)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=linmasaki&hide=html&theme=yeblu)
 
 
 <!--
